@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "462187827113",
+    "project_id": "rebola-182d2",
+    "storage_bucket": "rebola-182d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462187827113:android:c48bd6499b8c78e133beb8",
+        "android_client_info": {
+          "package_name": "com.example.rebola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462187827113-bfc998o3c49i9vv9irp6mqp9i2ugp65u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWIWZUvPZFxIBSPJhDxlh3MRI_U9ksBCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462187827113-bfc998o3c49i9vv9irp6mqp9i2ugp65u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
